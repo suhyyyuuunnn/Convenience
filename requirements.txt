@@ -4,7 +4,7 @@ awscli==1.19.5
 awsebcli==3.19.3
 bcrypt==3.2.0
 blessed==1.17.12
-botocore==1.19.63
+botocore==1.20.5
 cached-property==1.5.2
 cement==2.8.2
 certifi==2020.12.5
